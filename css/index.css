@@ -6,12 +6,25 @@ header{
   background-position:center;
       }
      
-#personal{
+.myself{
      color: blue;
      display: flex;
     flex-direction: row;
      background-color:black;
+     justify-content: space-between;
+     
 } 
+.skil{
+    margin-left:100px;
+    text-justify: auto;
+}
+.my-bg{
+    margin-left: 100px;
+}
+.who{
+    text-align: center;
+}
+   
  
 h1{
     color:red;
@@ -19,4 +32,18 @@ h1{
 }   
 h2{
     color:green;
+}
+.pj {
+    margin-left: 50px;
+}
+.fa-basketball-ball{
+    color: brown;
+}
+.fa-guitar{
+    color: crimson;
+}
+.intr{
+    display: flex;
+    flex-direction: row;
+    
 }
