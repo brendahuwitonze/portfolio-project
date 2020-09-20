@@ -33,14 +33,13 @@ h1{
 h2{
     color:green;
 }
-.pj {
-    margin-left: 50px;
-}
+
 .fa-basketball-ball{
     color: brown;
 }
 .fa-guitar{
     color: crimson;
+
 }
 .intr{
     display: flex;
@@ -49,4 +48,38 @@ h2{
 }
 .exl p{
   margin-left:50px ;
+}
+.pj div{
+    display: flex;
+    flex-direction: row;
+}
+.pj img, p{
+   margin-left:100px;
+}
+.pj{
+    background-color:lightblue;
+}
+.wel{
+    margin-left:300px;
+    padding-top: 100px;
+    color: blue;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }   
+li a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    margin-left: 200px;
+  }
+li {
+   float: left; 
+}
+li a:hover{
+    color:blue;
 }
