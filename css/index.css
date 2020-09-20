@@ -19,7 +19,7 @@ header{
     text-justify: auto;
 }
 .my-bg{
-    margin-left: 100px;
+    margin-left:100px;
 }
 .who{
     text-align: center;
@@ -47,7 +47,7 @@ h2{
     
 }
 .exl p{
-  margin-left:50px ;
+  margin-left:45px ;
 }
 .pj div{
     display: flex;
@@ -61,8 +61,8 @@ h2{
 }
 .wel{
     margin-left:300px;
-    padding-top: 100px;
     color: blue;
+    padding-top: 50px;
 }
 ul {
     list-style-type: none;
