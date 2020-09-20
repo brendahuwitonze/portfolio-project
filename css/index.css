@@ -1,85 +1,118 @@
+header {
+    height: 300px;
+    background-image: url(../image/hea.png);
+    background-size: cover;
+    background-position: center;
+}
 
-header{
-  height:300px;
-  background-image: url(../image/hea.png);
-  background-size:cover;
-  background-position:center;
-      }
-     
-.myself{
-     color: blue;
-     display: flex;
+.myself {
+    color: darkgray;
+    display: flex;
     flex-direction: row;
-     background-color:black;
-     justify-content: space-between;
-     
-} 
-.skil{
-    margin-left:100px;
+    background-color:white;
+    justify-content: space-between;
+}
+
+.skil {
+    margin-left: 100px;
     text-justify: auto;
 }
-.my-bg{
-    margin-left:100px;
+
+.my-bg {
+    margin-left: 100px;
 }
-.who{
+
+.who {
     text-align: center;
 }
-   
- 
-h1{
-    color:red;
 
-}   
-h2{
-    color:green;
+h1 {
+    color: red;
 }
+@media screen and (max-width:768px)and(min-width:320){
+    header {
+        height: 300px;
+        background-image: url(../image/hea.png);
+        background-size: cover;
+        background-position: center;
+    }
+    .my-bg {
+        margin-left: 100px;
+    }
 
-.fa-basketball-ball{
-    color: brown;
+.who {
+    text-align: center;
 }
-.fa-guitar{
-    color: crimson;
-
-}
-.intr{
-    display: flex;
-    flex-direction: row;
-    
-}
-.exl p{
-  margin-left:45px ;
-}
-.pj div{
-    display: flex;
-    flex-direction: row;
-}
-.pj img, p{
-   margin-left:100px;
-}
-.pj{
-    background-color:lightblue;
-}
-.wel{
-    margin-left:300px;
+.wel {
+    margin-left: 300px;
     color: blue;
     padding-top: 50px;
 }
+   
+.exl p {
+    margin-left: 45px;
+}
+ 
+}
+h2 {
+    color: green;
+}
+
+.fa-basketball-ball {
+    color: brown;
+}
+
+.fa-guitar {
+    color: crimson;
+}
+
+.intr {
+    display: flex;
+    flex-direction: row;
+}
+
+.exl p {
+    margin-left: 45px;
+}
+
+.pj div {
+    display: flex;
+    flex-direction: row;
+}
+
+.pj img, p {
+    margin-left: 100px;
+}
+
+.pj {
+    background-color: lightblue;
+}
+
+.wel {
+    margin-left: 300px;
+    color: blue;
+    padding-top: 50px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    
-  }   
+}
+
 li a {
     display: block;
     padding: 8px;
     text-decoration: none;
     margin-left: 200px;
-  }
+}
+
 li {
-   float: left; 
+    float: left;
 }
-li a:hover{
-    color:blue;
+
+li a:hover {
+    color: blue;
 }
+
