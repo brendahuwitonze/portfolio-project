@@ -44,11 +44,8 @@ h1 {
 .who {
     text-align: center;
 }
-.wel {
-    margin-left: 300px;
-    color: blue;
-    padding-top: 50px;
-}
+
+
    
 .exl p {
     margin-left: 45px;
@@ -91,7 +88,7 @@ h2 {
 
 .wel {
     margin-left: 300px;
-    color: blue;
+    color: color;
     padding-top: 50px;
 }
 
