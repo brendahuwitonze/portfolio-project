@@ -21,7 +21,7 @@ Leave nothing to chance! You want it to be easy for potential users, employers a
  ## PROJECTS THAT I DESIGNED
 [sheila-shoe]{https://brendahuwitonze.github.io/shoe-project/}
 
-[portfolio]{https://brendahuwitonze.github.io/portfolio-project/.}
+[portfolio]{https://brendahuwitonze.github.io/portfolio-project/}
 
 ## License
 
