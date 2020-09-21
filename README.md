@@ -18,9 +18,9 @@
  ## Technologies Used
 {I used programing languages to code my portfolio, the HTML language and CASCADING STYLE SHEET for styling}
  ## PROJECTS THAT I DESIGNED
-[sheila-shoe]{https://brendahuwitonze.github.io/shoe-project/}
+[sheila-shoe](https://brendahuwitonze.github.io/shoe-project/)
 
-[portfolio]{https://brendahuwitonze.github.io/portfolio-project/}
+[portfolio](https://brendahuwitonze.github.io/portfolio-project/)
 
 ## License
 
