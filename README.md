@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-#### Its a project that shows more information about me}, {september/21/2020
+#### A PORTFOLIO is a project that shows detailed information about me, september/21/2020
 
 #### By **uwitonze Brendah**
 
