@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-#### A PORTFOLIO is a project that shows detailed information about me, september/21/2020
+#### A portfolio is a project that shows detailed information about me, september/21/2020
 
 #### By **uwitonze Brendah**
 
