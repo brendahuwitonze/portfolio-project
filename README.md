@@ -1,9 +1,15 @@
 # PORTFOLIO
+
 #### Its a project that shows more information about me}, {september/21/2020
+
 #### By **uwitonze Brendah**
+
 ## Description
-{This application is known as a portfolio,it gives more information about who I am ,my background ,my Education my hobbies ,skills and among others.I'ts kind of an online curriculum vitae }
+
+{This application is known as a portfolio, it gives more information about who I am , my background , my Education my hobbies , skills and among others. I'ts kind of an online curriculum vitae }
+
 ## Setup/Installation Requirements
+
 .installation of ubuntu
 . instaling git
 .signing up to github
@@ -30,10 +36,10 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.}
 Copyright (@) {2020} {UWITONZE BRENDAH}

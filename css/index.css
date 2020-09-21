@@ -9,7 +9,7 @@ header {
     color: black;
     display: flex;
     flex-direction: row;
-    background-color:lightblue;
+    background-color: lightblue;
     justify-content: space-between;
     font-family: 'Shadows Into Light', cursive;
 }
@@ -28,10 +28,11 @@ header {
 }
 
 h1 {
-    color:blue;
+    color: blue;
     font-family: 'Kaushan Script', cursive;
 }
-@media screen and (max-width:768px)and(min-width:320){
+
+@media screen and (max-width:768px)and(min-width:320) {
     header {
         height: 300px;
         background-image: url(../image/hea.png);
@@ -41,21 +42,18 @@ h1 {
     .my-bg {
         margin-left: 100px;
     }
-
-.who {
-    text-align: center;
+    .who {
+        text-align: center;
+    }
+    .josh {
+        margin-left: 200px;
+        padding-top: 50px;
+    }
+    .exl p {
+        margin-left: 45px;
+    }
 }
 
-.josh{
-    margin-left: 200px;
-    padding-top: 50px;
-}
-   
-.exl p {
-    margin-left: 45px;
-}
- 
-}
 h2 {
     color: green;
 }
@@ -119,18 +117,22 @@ li a:hover {
     color: blue;
 }
 
-.zil{
+.zil {
     margin-left: 500px;
 }
-.fa-facebook-f{
+
+.fa-facebook-f {
     color: blue;
 }
+
 .fa-twitter {
-    color:#66ccff;
+    color: #66ccff;
 }
-.rec p{
- color:red;
+
+.rec p {
+    color: red;
 }
-footer p{
+
+footer p {
     text-align: center;
 }
