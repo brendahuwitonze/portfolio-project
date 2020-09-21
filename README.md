@@ -17,8 +17,9 @@
 .and then proced
  ## Technologies Used
 {I used programing languages to code my portfolio, the HTML language and CASCADING STYLE SHEET for styling}
- ## PROJECTS THAT I DESIGNED
+## Image
  ![brendah](https://images.unsplash.com/photo-1523289619259-44358ba02ba5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80)
+  ## PROJECTS THAT I DESIGNED
 [sheila-shoe](https://brendahuwitonze.github.io/shoe-project/)
 
 [portfolio](https://brendahuwitonze.github.io/portfolio-project/)
