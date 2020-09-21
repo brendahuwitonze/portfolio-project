@@ -15,8 +15,7 @@
 .signing up to github
 . start using it
 .and then proced
-Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?
- Technologies Used
+ ## Technologies Used
 {I used programing languages to code my portfolio, the HTML language and CASCADING STYLE SHEET for styling}
  ## PROJECTS THAT I DESIGNED
 [sheila-shoe]{https://brendahuwitonze.github.io/shoe-project/}
